@@ -52,6 +52,7 @@
     <td width="700" align="center"><a href="trangchu.php"><img src="image/logo6.png"></a>&nbsp;</td>
     </div></td>
     <td width="300"><div class="timkiem">
+   <!-- da them chuc nang tim kiem*-->
     <form action="timkiem.php" method="get" >
     <input type="text" name="text" size="13px">
     <input type="submit" name="tim" value="Tim Kiem" style="float:right"/>
